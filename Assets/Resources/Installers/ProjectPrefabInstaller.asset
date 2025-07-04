@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65dd05b7fff4f2bba03f790ff9b766c, type: 3}
+  m_Name: ProjectPrefabInstaller
+  m_EditorClassIdentifier: 
+  ballSettingsDatabase: {fileID: 11400000, guid: 93df1086691d5814faf147d16c8c6cd2, type: 2}
+  scorePrefab: {fileID: 7064498030506816525, guid: cc8b2a833744fa746a4965dd6df65160, type: 3}
+  defeatPrefab: {fileID: 734200046870752180, guid: 5b01fc5bef61f6d43b6581549adc2c73, type: 3}
+  canvas: {fileID: 4696988998750788614, guid: 836f152f3a4479f43a7a65d66ea85249, type: 3}
